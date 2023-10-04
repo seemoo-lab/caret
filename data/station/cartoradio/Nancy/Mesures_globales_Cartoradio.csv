@@ -1,0 +1,117 @@
+Numéro de mesure;Longitude;Latitude;Position;Insee;Adresse;Complément;Code postal;Commune;Date de mesure;Mesure réalisée;Rapport;Conformité de la mesure;Niveau global;"Type d'environnement";laboratoire
+167698;6.209203;48.667617;"48°40'3.421""N 6°12'33.131""E";54274;Rue de la République;"";54140;JARVILLE LA MALGRANGE;30/08/2021;En extérieur;R_SO11816_1_2PUB.pdf;Oui;0.97;Rue / Route / Parking;EXEM
+167728;6.211092;48.706496;"48°42'23.386""N 6°12'39.931""E";54482;Rue Gambetta;"";54130;SAINT MAX;30/08/2021;En extérieur;R_SO11871_1_2PUB.pdf;Oui;1.77;Rue / Route / Parking;EXEM
+167759;6.172145;48.704453;"48°42'16.031""N 6°10'19.722""E";54395;Rue Mollevaut;"";54000;NANCY;30/08/2021;En extérieur;R_SO11816_1_1PUB.pdf;Oui;1.81;Rue / Route / Parking;EXEM
+167769;6.199646;48.690548;"48°41'25.973""N 6°11'58.726""E";54395;Boulevard de la Mothe;"";54000;NANCY;23/08/2021;En extérieur;R_SO11977_1_1PUB.pdf;Oui;1.82;Rue / Route / Parking;EXEM
+167780;6.175466;48.663497;"48°39'48.589""N 6°10'31.678""E";54547;Rue de Gembloux;"";54500;VANDOEUVRE LES NANCY;23/08/2021;En extérieur;R_SO11977_1_2PUB.pdf;Oui;0.67;Rue / Route / Parking;EXEM
+167788;6.184316;48.673577;"48°40'24.877""N 6°11'3.538""E";54547;Avenue Paul Doumer;"";54500;VANDOEUVRE LES NANCY;23/08/2021;En extérieur;R_SO11977_1_3PUB.pdf;Oui;0.99;Rue / Route / Parking;EXEM
+167878;6.163931;48.613498;"48°36'48.593""N 6°9'50.152""E";54328;Impasse Paul Langevin;"";54710;LUDRES;03/09/2021;En extérieur;R_SO11623_3_2PUB.pdf;Oui;0.02;"Lieu d'habitation";EXEM
+167970;6.174503;48.673892;"48°40'26.011""N 6°10'28.211""E";54395;Avenue du Général Leclerc;"";54000;NANCY;30/08/2021;En extérieur;R_SO11871_1_1PUB.pdf;Oui;1.89;Rue / Route / Parking;EXEM
+168393;6.137222;48.657278;"48°39'26.201""N 6°8'13.999""E";54578;Allée DE LONGCHAMP;"";54600;VILLERS LES NANCY;22/09/2021;En intérieur;RPUB_141747.pdf;Oui;0.32;Locaux professionnels non accessibles au public;APAVE Parisienne - Paris 17
+168568;6.249762;48.692306;"48°41'32.302""N 6°14'59.143""E";54495;Rue des Jardins Fleuris;"";54420;SAULXURES LES NANCY;24/09/2021;En extérieur;RPUB_141947.pdf;Oui;1.64;Rue / Route / Parking;EXEM
+168712;6.165026;48.682202;"48°40'55.927""N 6°9'54.094""E";54395;Rue Aristide Briand;"";54000;NANCY;03/09/2021;En extérieur;RPUB_142116.pdf;Oui;2.19;Rue / Route / Parking;EXEM
+168748;6.134358;48.697413;"48°41'50.687""N 6°8'3.689""E";54304;Rue Grand Parc;"";54520;LAXOU;24/09/2021;En extérieur;RPUB_142181.pdf;Oui;0.79;Rue / Route / Parking;EXEM
+168772;6.139607;48.687009;"48°41'13.232""N 6°8'22.585""E";54304;Rue de la Forêt;"";54520;LAXOU;03/09/2021;En extérieur;RPUB_142115.pdf;Oui;0.36;Rue / Route / Parking;EXEM
+168864;6.137882;48.688436;"48°41'18.370""N 6°8'16.375""E";54304;Rue du Plateau;"";54520;LAXOU;24/09/2021;En extérieur;RPUB_142242.pdf;Oui;8.15;"Lieu d'habitation";EXEM
+169249;6.16687;48.700151;"48°42'0.544""N 6°10'0.732""E";54395;Rue Jacquinot;"";54000;NANCY;15/10/2021;En extérieur;RPUB_142605.pdf;Oui;0.95;Rue / Route / Parking;EXEM
+169433;6.180748;48.683396;"48°41'0.226""N 6°10'50.693""E";54395;Rue de la République;"";54000;NANCY;22/10/2021;En extérieur;RPUB_142774.pdf;Oui;1.22;Rue / Route / Parking;EXEM
+170062;6.215406;48.705514;"48°42'19.850""N 6°12'55.462""E";54184;Rue Louis Bertrand;"";54270;ESSEY LES NANCY;09/11/2021;En extérieur;RPUB_143427.pdf;Oui;0.52;Rue / Route / Parking;EXEM
+170067;6.199096;48.704142;"48°42'14.911""N 6°11'56.746""E";54482;Rue Mozart;"";54130;SAINT MAX;09/11/2021;En extérieur;RPUB_143420.pdf;Oui;2.26;Rue / Route / Parking;EXEM
+170073;6.137667;48.688552;"48°41'18.787""N 6°8'15.601""E";54304;Rue du Plateau;"";54520;LAXOU;10/11/2021;En extérieur;RPUB_143423.pdf;Oui;2.85;Divers;EXEM
+170082;6.231907;48.682723;"48°40'57.803""N 6°13'54.865""E";54526;Allée Salvador Allende;"";54510;TOMBLAINE;09/11/2021;En extérieur;RPUB_143428.pdf;Oui;0.31;Rue / Route / Parking;EXEM
+170105;6.17644;48.674786;"48°40'29.230""N 6°10'35.184""E";54395;Rue du Marechal Exelmans;"";54000;NANCY;10/11/2021;En extérieur;RPUB_143459.pdf;Oui;0.83;Rue / Route / Parking;EXEM
+170106;6.201624;48.703904;"48°42'14.054""N 6°12'5.846""E";54482;Avenue du Général Leclerc;"";54130;SAINT MAX;15/11/2021;En intérieur;RPUB_143456.pdf;Oui;0.39;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+170165;6.185753;48.691654;"48°41'29.954""N 6°11'8.711""E";54395;Place Monseigneur Ruch;"";54000;NANCY;15/11/2021;En extérieur;RPUB_143536.pdf;Oui;0.43;Rue / Route / Parking;EXEM
+170166;6.272563;48.656277;"48°39'22.597""N 6°16'21.227""E";54025;Chemin Rural de la Xieres;"";54510;ART SUR MEURTHE;15/11/2021;En extérieur;RPUB_143535.pdf;Oui;1.66;Rue / Route / Parking;EXEM
+170179;6.204915;48.624938;"48°37'29.777""N 6°12'17.694""E";54197;Rue Jean Royer;"";54710;FLEVILLE DEVANT NANCY;15/11/2021;En extérieur;RPUB_143534.pdf;Oui;0.21;Rue / Route / Parking;EXEM
+170460;6.209203;48.667617;"48°40'3.421""N 6°12'33.131""E";54274;Rue de la République;"";54140;JARVILLE LA MALGRANGE;10/11/2021;En extérieur;RPUB_143851.pdf;Oui;1.14;Rue / Route / Parking;EXEM
+170500;6.172145;48.704453;"48°42'16.031""N 6°10'19.722""E";54395;Rue Mollevaut;"";54000;NANCY;10/11/2021;En extérieur;RPUB_143850.pdf;Oui;1.51;Rue / Route / Parking;EXEM
+170544;6.174503;48.673892;"48°40'26.011""N 6°10'28.211""E";54395;Avenue du Général Leclerc;"";54000;NANCY;09/11/2021;En extérieur;RPUB_143918.pdf;Oui;1.65;Rue / Route / Parking;EXEM
+170554;6.211092;48.706496;"48°42'23.386""N 6°12'39.931""E";54482;Rue Gambetta;"";54130;SAINT MAX;09/11/2021;En extérieur;RPUB_143919.pdf;Oui;2.26;Rue / Route / Parking;EXEM
+170917;6.164618;48.761564;"48°45'41.630""N 6°9'52.625""E";54090;Rue de la Goulotte;"";54136;BOUXIERES AUX DAMES;15/10/2021;En extérieur;RPUB_144246.pdf;Oui;0.94;Rue / Route / Parking;EXEM
+170973;6.199646;48.690548;"48°41'25.973""N 6°11'58.726""E";54395;Boulevard de la Mothe;"";54000;NANCY;03/12/2021;En extérieur;RPUB_144370.pdf;Oui;1.98;Rue / Route / Parking;EXEM
+171123;6.18432;48.673576;"48°40'24.874""N 6°11'3.552""E";54547;Avenue Paul Doumer;"";54500;VANDOEUVRE LES NANCY;29/11/2021;En extérieur;RPUB_144573.pdf;Oui;1.11;Rue / Route / Parking;EXEM
+171214;6.175466;48.663497;"48°39'48.589""N 6°10'31.678""E";54547;Rue de Gembloux;"";54500;VANDOEUVRE LES NANCY;29/11/2021;En extérieur;RPUB_144572.pdf;Oui;0.81;Rue / Route / Parking;EXEM
+171788;6.163974;48.613498;"48°36'48.593""N 6°9'50.306""E";54328;Impasse Paul Langevin;"";54710;LUDRES;20/12/2021;En intérieur;RPUB_145082.pdf;Oui;0.2;"Lieu d'habitation";EXEM
+171804;6.181655;48.689324;"48°41'21.566""N 6°10'53.958""E";54395;Place Charles III;"";54000;NANCY;17/12/2021;En extérieur;RPUB_145181.pdf;Oui;0.7;Rue / Route / Parking;EXEM
+172517;6.161184;48.660221;"48°39'36.796""N 6°9'40.262""E";54547;Avenue du Général Leclerc;"";54500;VANDOEUVRE LES NANCY;04/02/2022;En extérieur;RPUB_145859.pdf;Oui;1.3;Rue / Route / Parking;EXEM
+172632;6.148833;48.647167;"48°38'49.801""N 6°8'55.799""E";54547;Rue du Morvan;"";54500;VANDOEUVRE LES NANCY;08/02/2022;En intérieur;RPUB_145953.pdf;Oui;1.37;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";APAVE Parisienne - Paris 17
+172651;6.166141;48.700436;"48°42'1.570""N 6°9'58.108""E";54395;Rue de Liège;"";54000;NANCY;10/02/2022;En intérieur;RPUB_145990.pdf;Oui;0.58;"Lieu d'habitation";EXEM
+172653;6.226262;48.661252;"48°39'40.507""N 6°13'34.543""E";54300;Avenue du Général de Gaulle;"";54410;LANEUVEVILLE DEVANT NANCY;10/02/2022;En extérieur;RPUB_145989.pdf;Oui;0.52;Rue / Route / Parking;EXEM
+172656;6.169974;48.683513;"48°41'0.647""N 6°10'11.906""E";54395;Rue Gabriel Mouilleron;"";54000;NANCY;10/02/2022;En intérieur;RPUB_145988.pdf;Oui;0.72;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+172732;6.19041;48.69841;"48°41'54.276""N 6°11'25.476""E";54395;Rue Bastien Leclerc;"";54000;NANCY;15/02/2022;En extérieur;RPUB_146071.pdf;Oui;4.01;"Lieu d'habitation";EXEM
+172886;6.198521;48.70964;"48°42'34.704""N 6°11'54.676""E";54339;Parc de Libremont;"";54220;MALZEVILLE;18/02/2022;En intérieur;RPUB_146194.pdf;Oui;0.91;"Lieu d'habitation";EXEM
+173204;6.208406;48.704374;"48°42'15.746""N 6°12'30.262""E";54482;Rue Diderot;"";54130;SAINT MAX;25/02/2022;En intérieur;RPUB_146424.pdf;Oui;0.79;"Lieu d'habitation";EXEM
+173405;6.199646;48.690548;"48°41'25.973""N 6°11'58.726""E";54395;Boulevard de la Mothe;"";54000;NANCY;11/03/2022;En extérieur;RPUB_146622.pdf;Oui;2.17;Rue / Route / Parking;EXEM
+173428;6.172145;48.704453;"48°42'16.031""N 6°10'19.722""E";54395;Rue Mollevaut;"";54000;NANCY;11/03/2022;En extérieur;RPUB_146621.pdf;Oui;1.53;Rue / Route / Parking;EXEM
+173622;6.180748;48.683396;"48°41'0.226""N 6°10'50.693""E";54395;Rue de la République;"";54000;NANCY;18/03/2022;En extérieur;RPUB_146847.pdf;Oui;1.25;Rue / Route / Parking;EXEM
+173623;6.165026;48.682202;"48°40'55.927""N 6°9'54.094""E";54395;Rue Aristide Briand;"";54000;NANCY;18/03/2022;En extérieur;RPUB_146846.pdf;Oui;2.25;Rue / Route / Parking;EXEM
+173774;6.174503;48.673892;"48°40'26.011""N 6°10'28.211""E";54395;Avenue du Général Leclerc;"";54000;NANCY;28/03/2022;En extérieur;RPUB_146997.pdf;Oui;2.05;Rue / Route / Parking;EXEM
+173776;6.18432;48.673576;"48°40'24.874""N 6°11'3.552""E";54547;Avenue Paul Doumer;"";54500;VANDOEUVRE LES NANCY;25/03/2022;En extérieur;RPUB_146996.pdf;Oui;1.03;Rue / Route / Parking;EXEM
+174047;6.211092;48.706496;"48°42'23.386""N 6°12'39.931""E";54482;Rue Gambetta;"";54130;SAINT MAX;11/04/2022;En extérieur;RPUB_147245.pdf;Oui;2.17;Rue / Route / Parking;EXEM
+174051;6.199096;48.704142;"48°42'14.911""N 6°11'56.746""E";54482;Rue Mozart;"";54130;SAINT MAX;11/04/2022;En extérieur;RPUB_147246.pdf;Oui;2.23;Rue / Route / Parking;EXEM
+174077;6.20638;48.710929;"48°42'39.344""N 6°12'22.968""E";54482;Rue de la Haie le Comte;"";54130;SAINT MAX;11/04/2022;En extérieur;RPUB_147283.pdf;Oui;0.92;Rue / Route / Parking;EXEM
+174286;6.209203;48.667617;"48°40'3.421""N 6°12'33.131""E";54274;Rue de la République;"";54140;JARVILLE LA MALGRANGE;19/04/2022;En extérieur;RPUB_147501.pdf;Oui;0.89;Rue / Route / Parking;EXEM
+175081;6.207972;48.701805;"48°42'6.498""N 6°12'28.699""E";54482;Rue du Clos Pré;"";54130;SAINT MAX;20/05/2022;En intérieur;RPUB_148295.pdf;Oui;0.87;"Lieu d'habitation";EXEM
+175207;6.244161;48.685528;"48°41'7.901""N 6°14'38.980""E";54495;Rue du Cottage Joli Bois;"";54420;SAULXURES LES NANCY;25/05/2022;En extérieur;RPUB_148419.pdf;Oui;0.3;Rue / Route / Parking;EXEM
+175738;6.175466;48.663497;"48°39'48.589""N 6°10'31.678""E";54547;Rue de Gembloux;"";54500;VANDOEUVRE LES NANCY;02/06/2022;En extérieur;RPUB_148932.pdf;Oui;0.98;Rue / Route / Parking;EXEM
+175773;6.16463;48.76155;"48°45'41.580""N 6°9'52.668""E";54090;Rue de la Goulotte;"";54136;BOUXIERES AUX DAMES;30/05/2022;En extérieur;RPUB_148933.pdf;Oui;0.84;Rue / Route / Parking;EXEM
+175794;6.134358;48.697413;"48°41'50.687""N 6°8'3.689""E";54304;Rue Grand Parc;"";54520;LAXOU;02/06/2022;En extérieur;RPUB_148931.pdf;Oui;0.85;Rue / Route / Parking;EXEM
+176087;6.181681;48.689222;"48°41'21.199""N 6°10'54.052""E";54395;Place Charles III;"";54000;NANCY;01/07/2022;En extérieur;RPUB_149293.pdf;Oui;0.99;Rue / Route / Parking;EXEM
+176088;6.16687;48.700151;"48°42'0.544""N 6°10'0.732""E";54395;Rue Jacquinot;"";54000;NANCY;01/07/2022;En extérieur;RPUB_149295.pdf;Oui;0.81;Rue / Route / Parking;EXEM
+176111;6.17644;48.674786;"48°40'29.230""N 6°10'35.184""E";54395;Rue du Marechal Exelmans;"";54000;NANCY;01/07/2022;En extérieur;RPUB_149294.pdf;Oui;0.7;Rue / Route / Parking;EXEM
+176136;6.189361;48.693665;"48°41'37.194""N 6°11'21.700""E";54395;"Rue de l'île de Corse";"";54000;NANCY;27/06/2022;En intérieur;RPUB_149342.pdf;Oui;0.38;"Lieu d'habitation";EXEM
+176289;6.170905;48.613725;"48°36'49.410""N 6°10'15.258""E";54328;Rue Hector Berlioz;"";54710;LUDRES;07/07/2022;En intérieur;RPUB_149502.pdf;Oui;0.21;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+176296;6.160562;48.620846;"48°37'15.046""N 6°9'38.023""E";54328;Rue de Secours;"";54710;LUDRES;07/07/2022;En extérieur;RPUB_149501.pdf;Oui;0.26;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+176637;6.156764;48.623194;"48°37'23.498""N 6°9'24.350""E";54328;Chemin de la Cuse;"";54710;LUDRES;29/07/2022;En extérieur;RPUB_149801.pdf;Oui;0.29;"Lieu d'habitation";EXEM
+176645;6.218863;48.718432;"48°43'6.355""N 6°13'7.907""E";54165;Chemin du Pain de Sucre;"";54130;DOMMARTEMONT;29/07/2022;En extérieur;RPUB_149800.pdf;Oui;0.44;Rue / Route / Parking;EXEM
+177116;6.159832;48.677722;"48°40'39.799""N 6°9'35.395""E";54578;Boulevard de Baudricourt;"";54600;VILLERS LES NANCY;19/08/2022;En extérieur;RPUB_150271.pdf;Oui;0.45;Rue / Route / Parking;EXEM
+177117;6.202254;48.671339;"48°40'16.820""N 6°12'8.114""E";54395;Square Louis Marin;"";54000;NANCY;19/08/2022;En extérieur;RPUB_150270.pdf;Oui;1.54;Rue / Route / Parking;EXEM
+177130;6.18432;48.673576;"48°40'24.874""N 6°11'3.552""E";54547;Avenue Paul Doumer;"";54500;VANDOEUVRE LES NANCY;22/08/2022;En extérieur;RPUB_150301.pdf;Oui;0.94;Rue / Route / Parking;EXEM
+177142;6.209203;48.667617;"48°40'3.421""N 6°12'33.131""E";54274;Rue de la République;"";54140;JARVILLE LA MALGRANGE;22/08/2022;En extérieur;RPUB_150303.pdf;Oui;1.02;Rue / Route / Parking;EXEM
+177158;6.172145;48.704453;"48°42'16.031""N 6°10'19.722""E";54395;Rue Mollevaut;"";54000;NANCY;22/08/2022;En extérieur;RPUB_150300.pdf;Oui;1.21;Rue / Route / Parking;EXEM
+177464;6.165026;48.682202;"48°40'55.927""N 6°9'54.094""E";54395;Rue Aristide Briand;"";54000;NANCY;02/09/2022;En extérieur;RPUB_150626.pdf;Oui;1.99;Rue / Route / Parking;EXEM
+177649;6.199096;48.704142;"48°42'14.911""N 6°11'56.746""E";54482;Rue Mozart;"";54130;SAINT MAX;08/09/2022;En extérieur;RPUB_150828.pdf;Oui;2.49;Rue / Route / Parking;EXEM
+177650;6.180748;48.683396;"48°41'0.226""N 6°10'50.693""E";54395;Rue de la République;"";54000;NANCY;08/09/2022;En extérieur;RPUB_150826.pdf;Oui;1.52;Rue / Route / Parking;EXEM
+177664;6.199646;48.690548;"48°41'25.973""N 6°11'58.726""E";54395;Boulevard de la Mothe;"";54000;NANCY;08/09/2022;En extérieur;RPUB_150827.pdf;Oui;2.15;Rue / Route / Parking;EXEM
+177667;6.174503;48.673892;"48°40'26.011""N 6°10'28.211""E";54395;Avenue du Général Leclerc;"";54000;NANCY;08/09/2022;En extérieur;RPUB_150825.pdf;Oui;2.82;Rue / Route / Parking;EXEM
+177699;6.211092;48.706496;"48°42'23.386""N 6°12'39.931""E";54482;Rue Gambetta;"";54130;SAINT MAX;08/09/2022;En extérieur;RPUB_150862.pdf;Oui;2.28;Rue / Route / Parking;EXEM
+178160;6.201332;48.6655;"48°39'55.800""N 6°12'4.795""E";54274;Rue François Evrard;"";54140;JARVILLE LA MALGRANGE;30/09/2022;En extérieur;RPUB_151321.pdf;Oui;1.65;Rue / Route / Parking;EXEM
+178285;6.207972;48.701805;"48°42'6.498""N 6°12'28.699""E";54482;Rue du Clos Pré;"";54130;SAINT MAX;10/10/2022;En intérieur;RPUB_151488.pdf;Oui;0.93;"Lieu d'habitation";EXEM
+178313;6.17069;48.679521;"48°40'46.276""N 6°10'14.484""E";54395;Avenue Maréchal Juin;"";54000;NANCY;10/10/2022;En extérieur;RPUB_151457.pdf;Oui;0.33;Divers;EXEM
+178360;6.164296;48.673336;"48°40'24.010""N 6°9'51.466""E";54578;Boulevard de Baudricourt;"";54600;VILLERS LES NANCY;10/10/2022;En extérieur;RPUB_151477.pdf;Oui;1.0;Rue / Route / Parking;EXEM
+178421;6.224463;48.69817;"48°41'53.412""N 6°13'28.067""E";54184;Allée Carl Fabergé;"";54270;ESSEY LES NANCY;17/10/2022;En extérieur;RPUB_151578.pdf;Oui;0.82;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+178614;6.16463;48.76155;"48°45'41.580""N 6°9'52.668""E";54090;Rue de la Goulotte;"";54136;BOUXIERES AUX DAMES;30/09/2022;En extérieur;RPUB_151783.pdf;Oui;1.01;Rue / Route / Parking;EXEM
+178615;6.16687;48.700151;"48°42'0.544""N 6°10'0.732""E";54395;Rue Jacquinot;"";54000;NANCY;07/10/2022;En extérieur;RPUB_151781.pdf;Oui;0.92;Rue / Route / Parking;EXEM
+178624;6.175466;48.663497;"48°39'48.589""N 6°10'31.678""E";54547;Rue de Gembloux;"";54500;VANDOEUVRE LES NANCY;30/09/2022;En extérieur;RPUB_151782.pdf;Oui;1.09;Rue / Route / Parking;EXEM
+178629;6.24753;48.691591;"48°41'29.728""N 6°14'51.108""E";54495;21 quater rue des jardins fleuris;"";54420;SAULXURES LES NANCY;24/10/2022;En extérieur;RPUB_151810.pdf;Oui;2.28;"Lieu d'habitation";EXEM
+178632;6.181681;48.689222;"48°41'21.199""N 6°10'54.052""E";54395;Place Charles III;"";54000;NANCY;07/10/2022;En extérieur;RPUB_151777.pdf;Oui;0.94;Rue / Route / Parking;EXEM
+178638;6.134358;48.697413;"48°41'50.687""N 6°8'3.689""E";54304;Rue Grand Parc;"";54520;LAXOU;30/09/2022;En extérieur;RPUB_151780.pdf;Oui;0.83;Rue / Route / Parking;EXEM
+178651;6.17644;48.674786;"48°40'29.230""N 6°10'35.184""E";54395;Rue du Marechal Exelmans;"";54000;NANCY;07/10/2022;En extérieur;RPUB_151778.pdf;Oui;0.84;Rue / Route / Parking;EXEM
+179117;6.180625;48.677793;"48°40'40.055""N 6°10'50.250""E";54395;Boulevard Georges Clémenceau;"";54000;NANCY;10/11/2022;En extérieur;RPUB_152269.pdf;Oui;0.36;Rue / Route / Parking;EXEM
+179301;6.157043;48.622917;"48°37'22.501""N 6°9'25.355""E";54328;Chemin de la Cuse;"";54710;LUDRES;24/11/2022;En intérieur;RPUB_152451.pdf;Oui;0.15;"Lieu d'habitation";EXEM
+179309;6.160399;48.620497;"48°37'13.789""N 6°9'37.436""E";54328;Rue de Secours;"";54710;LUDRES;24/11/2022;En extérieur;RPUB_152452.pdf;Oui;0.26;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+179431;6.113441;48.656458;"48°39'23.249""N 6°6'48.388""E";54578;Boulevard Valtriche;"";54600;VILLERS LES NANCY;02/12/2022;En extérieur;RPUB_152581.pdf;Oui;0.21;Rue / Route / Parking;EXEM
+179435;6.180196;48.690125;"48°41'24.450""N 6°10'48.706""E";54395;Rue Saint-Jean;"";54000;NANCY;02/12/2022;En extérieur;RPUB_152580.pdf;Oui;2.49;Rue / Route / Parking;EXEM
+179443;6.184552;48.716847;"48°43'0.649""N 6°11'4.387""E";54339;Rue Jean-René Schwartz;"";54220;MALZEVILLE;02/12/2022;En extérieur;RPUB_152582.pdf;Oui;0.36;Rue / Route / Parking;EXEM
+180454;6.220472;48.706355;"48°42'22.878""N 6°13'13.699""E";54184;Rue Roger Berin;"";54270;ESSEY LES NANCY;20/01/2023;En extérieur;RPUB_153523.pdf;Oui;0.47;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+180797;6.224506;48.69817;"48°41'53.412""N 6°13'28.222""E";54184;Allée Carl Fabergé;"";54270;ESSEY LES NANCY;13/02/2023;En extérieur;RPUB_153871.pdf;Oui;0.98;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+180908;6.224248;48.699607;"48°41'58.585""N 6°13'27.293""E";54184;Allée Carl Fabergé;"";54270;ESSEY LES NANCY;27/02/2023;En intérieur;RPUB_153976.pdf;Oui;0.24;Divers;EXEM
+180914;6.225321;48.699034;"48°41'56.522""N 6°13'31.156""E";54184;Rue de Mouzimpré;"";54270;ESSEY LES NANCY;27/02/2023;En intérieur;RPUB_153977.pdf;Oui;0.19;Divers;EXEM
+180915;6.251778;48.643758;"48°38'37.529""N 6°15'6.401""E";54300;Rue Côte Grise;"";54410;LANEUVEVILLE DEVANT NANCY;27/02/2023;En extérieur;RPUB_153980.pdf;Oui;0.19;Rue / Route / Parking;EXEM
+181035;6.200538;48.709456;"48°42'34.042""N 6°12'1.937""E";54339;Rue Georges de la Salle;"";54220;MALZEVILLE;13/03/2023;En intérieur;RPUB_154099.pdf;Oui;2.2;"Lieu d'habitation";EXEM
+181438;6.180271;48.690337;"48°41'25.213""N 6°10'48.976""E";54395;Rue de la Visitation;"";54000;NANCY;31/03/2023;En extérieur;RPUB_154519.pdf;Oui;8.7;"Lieu d'habitation";EXEM
+181446;6.222296;48.70644;"48°42'23.184""N 6°13'20.266""E";54184;Rue Roger Bérin;"";54270;ESSEY LES NANCY;07/04/2023;En intérieur;RPUB_154527.pdf;Oui;0.33;"Lieu d'habitation";EXEM
+181518;6.15155;48.696017;"48°41'45.661""N 6°9'5.580""E";54395;Rue de Buthégnemont;"";54000;NANCY;21/04/2023;En extérieur;RPUB_154591.pdf;Oui;0.63;"Lieu d'habitation";EXEM
+181520;6.221974;48.706143;"48°42'22.115""N 6°13'19.106""E";54184;Rue Roger Bérin;"";54270;ESSEY LES NANCY;21/04/2023;En extérieur;RPUB_154585.pdf;Oui;1.04;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+182195;6.16436;48.681313;"48°40'52.727""N 6°9'51.696""E";54395;Rue Emile Bertin;"";54000;NANCY;29/05/2023;En extérieur;RPUB_155287.pdf;Oui;1.01;Rue / Route / Parking;EXEM
+182212;6.192706;48.680761;"48°40'50.740""N 6°11'33.742""E";54395;Rue de Nabecor;"";54000;NANCY;29/05/2023;En extérieur;RPUB_155288.pdf;Oui;0.23;Rue / Route / Parking;EXEM
+182723;6.209203;48.667617;"48°40'3.421""N 6°12'33.131""E";54274;Rue de la République;"";54140;JARVILLE LA MALGRANGE;30/06/2023;En extérieur;RPUB_155801.pdf;Oui;1.19;Rue / Route / Parking;EXEM
+182726;6.180748;48.683396;"48°41'0.226""N 6°10'50.693""E";54395;Rue de la République;"";54000;NANCY;02/06/2023;En extérieur;RPUB_155796.pdf;Oui;1.18;Rue / Route / Parking;EXEM
+182750;6.199646;48.690548;"48°41'25.973""N 6°11'58.726""E";54395;Boulevard de la Mothe;"";54000;NANCY;02/06/2023;En extérieur;RPUB_155797.pdf;Oui;2.16;Rue / Route / Parking;EXEM
+182752;6.199096;48.704142;"48°42'14.911""N 6°11'56.746""E";54482;Rue Mozart;"";54130;SAINT MAX;01/06/2023;En extérieur;RPUB_155800.pdf;Oui;1.9;Rue / Route / Parking;EXEM
+182753;6.165026;48.682202;"48°40'55.927""N 6°9'54.094""E";54395;Rue Aristide Briand;"";54000;NANCY;02/06/2023;En extérieur;RPUB_155795.pdf;Oui;1.9;Rue / Route / Parking;EXEM
+182762;6.172145;48.704453;"48°42'16.031""N 6°10'19.722""E";54395;Rue Mollevaut;"";54000;NANCY;02/06/2023;En extérieur;RPUB_155792.pdf;Oui;1.37;Rue / Route / Parking;EXEM
+182769;6.174503;48.673892;"48°40'26.011""N 6°10'28.211""E";54395;Avenue du Général Leclerc;"";54000;NANCY;02/06/2023;En extérieur;RPUB_155794.pdf;Oui;2.0;Rue / Route / Parking;EXEM
+182773;6.211092;48.706496;"48°42'23.386""N 6°12'39.931""E";54482;Rue Gambetta;"";54130;SAINT MAX;01/06/2023;En extérieur;RPUB_155799.pdf;Oui;2.18;Rue / Route / Parking;EXEM
+182825;6.18432;48.673576;"48°40'24.874""N 6°11'3.552""E";54547;Avenue Paul Doumer;"";54500;VANDOEUVRE LES NANCY;30/06/2023;En extérieur;RPUB_155851.pdf;Oui;1.09;Rue / Route / Parking;EXEM

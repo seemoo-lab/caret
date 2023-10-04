@@ -1,0 +1,220 @@
+Numéro de mesure;Longitude;Latitude;Position;Insee;Adresse;Complément;Code postal;Commune;Date de mesure;Mesure réalisée;Rapport;Conformité de la mesure;Niveau global;"Type d'environnement";laboratoire
+168707;1.894434;47.894075;"47°53'38.670""N 1°53'39.962""E";45234;Avenue du Champ de Mars;"";45000;ORLEANS;29/09/2021;En extérieur;RPUB_142235.pdf;Oui;1.94;Rue / Route / Parking;EXEM
+169288;1.926752;47.942658;"47°56'33.569""N 1°55'36.307""E";45147;Rue de Curembourg;"";45400;FLEURY LES AUBRAIS;12/10/2021;En extérieur;RPUB_142669.pdf;Oui;1.65;Rue / Route / Parking;EXEM
+169298;1.877166;47.898518;"47°53'54.665""N 1°52'37.798""E";45285;Rue des Charrières;"";45140;SAINT JEAN DE LA RUELLE;12/10/2021;En extérieur;RPUB_142673.pdf;Oui;1.34;Rue / Route / Parking;EXEM
+169313;1.971595;47.927328;"47°55'38.381""N 1°58'17.742""E";45284;Rue de la Grand Maison;"";45800;SAINT JEAN DE BRAYE;12/10/2021;En extérieur;RPUB_142672.pdf;Oui;1.2;Rue / Route / Parking;EXEM
+169324;1.928846;47.841175;"47°50'28.230""N 1°55'43.846""E";45234;Rue Charles Maurain;"";45100;ORLEANS;12/10/2021;En extérieur;RPUB_142671.pdf;Oui;1.14;Rue / Route / Parking;EXEM
+169352;1.903024;47.874791;"47°52'29.248""N 1°54'10.886""E";45232;Rue des Pies;"";45160;OLIVET;12/10/2021;En extérieur;RPUB_142670.pdf;Oui;1.22;Rue / Route / Parking;EXEM
+169629;1.923873;47.90685;"47°54'24.660""N 1°55'25.943""E";45234;Rue du Pressoir Neuf;"";45000;ORLEANS;29/09/2021;En extérieur;RPUB_143003.pdf;Oui;3.27;Rue / Route / Parking;EXEM
+169795;1.890702;47.899249;"47°53'57.296""N 1°53'26.527""E";45234;Allée du Parc St Laurent;"";45000;ORLEANS;13/10/2021;En intérieur;RPUB_143196.pdf;Oui;0.13;"Lieu d'habitation";EXEM
+169803;1.892931;47.901311;"47°54'4.720""N 1°53'34.552""E";45234;station tram Madeleine;"";45000;ORLEANS;29/09/2021;En extérieur;RPUB_143146.pdf;Oui;2.54;Rue / Route / Parking;EXEM
+169817;1.897416;47.901837;"47°54'6.613""N 1°53'50.698""E";45234;station tram Croix Morin;"";45000;ORLEANS;29/09/2021;En extérieur;RPUB_143145.pdf;Oui;0.79;Rue / Route / Parking;EXEM
+169842;1.890702;47.899249;"47°53'57.296""N 1°53'26.527""E";45234;Allée du Parc St Laurent;"";45000;ORLEANS;13/10/2021;En intérieur;RPUB_143197.pdf;Oui;0.08;"Lieu d'habitation";EXEM
+170074;1.936616;47.873795;"47°52'25.662""N 1°56'11.818""E";45286;Route de Saint-Cyr;"";45650;SAINT JEAN LE BLANC;09/11/2021;En extérieur;RPUB_143434.pdf;Oui;1.04;Rue / Route / Parking;EXEM
+170206;1.905742;47.899405;"47°53'57.858""N 1°54'20.671""E";45234;Place du Châtelet;"";45000;ORLEANS;10/11/2021;En extérieur;RPUB_143583.pdf;Oui;1.26;Rue / Route / Parking;EXEM
+170306;1.861319;47.859237;"47°51'33.253""N 1°51'40.748""E";45232;Rue de la Trésorerie;"";45160;OLIVET;14/10/2021;En extérieur;RPUB_143663.pdf;Oui;0.62;Rue / Route / Parking;EXEM
+170387;1.904461;47.913887;"47°54'49.993""N 1°54'16.060""E";45234;Rue des Sansonnières;"";45000;ORLEANS;13/10/2021;En extérieur;RPUB_143747.pdf;Oui;1.43;Rue / Route / Parking;EXEM
+170435;1.918176;47.844988;"47°50'41.957""N 1°55'5.434""E";45232;Route des Bourges;"";45160;OLIVET;14/10/2021;En extérieur;RPUB_143748.pdf;Oui;2.21;Rue / Route / Parking;EXEM
+170456;1.887539;47.891924;"47°53'30.926""N 1°53'15.140""E";45234;Rue Vieille Levée;"";45100;ORLEANS;10/11/2021;En extérieur;RPUB_143843.pdf;Oui;1.04;Rue / Route / Parking;EXEM
+170463;1.838982;47.936563;"47°56'11.627""N 1°50'20.335""E";45169;Rue des Guettes;"";45140;INGRE;10/11/2021;En extérieur;RPUB_143846.pdf;Oui;2.1;Rue / Route / Parking;EXEM
+170467;1.858336;47.948038;"47°56'52.937""N 1°51'30.010""E";45302;Rue Henri Becquerel;"";45770;SARAN;10/11/2021;En extérieur;RPUB_143847.pdf;Oui;1.63;Rue / Route / Parking;EXEM
+170510;1.836049;47.944065;"47°56'38.634""N 1°50'9.776""E";45235;Rue de Monbary;"";45140;ORMES;10/11/2021;En extérieur;RPUB_143845.pdf;Oui;1.65;Rue / Route / Parking;EXEM
+170521;1.894424;47.920916;"47°55'15.298""N 1°53'39.926""E";45234;Rue Ponson du Terrail;"";45000;ORLEANS;10/11/2021;En extérieur;RPUB_143844.pdf;Oui;1.12;Rue / Route / Parking;EXEM
+170596;1.894955;47.891955;"47°53'31.038""N 1°53'41.838""E";45234;Rue Guignegault;"";45100;ORLEANS;29/11/2021;En extérieur;RPUB_143951.pdf;Oui;1.18;Rue / Route / Parking;EXEM
+170602;1.948361;47.878493;"47°52'42.575""N 1°56'54.100""E";45274;Rue du Val;"";45560;SAINT DENIS EN VAL;30/11/2021;En intérieur;RPUB_143930.pdf;Oui;3.41;"Lieu d'habitation";EXEM
+170607;1.892997;47.942401;"47°56'32.644""N 1°53'34.789""E";45302;Route Nationale 20;"";45770;SARAN;29/11/2021;En extérieur;RPUB_143952.pdf;Oui;2.25;Rue / Route / Parking;EXEM
+170902;1.922833;47.928627;"47°55'43.057""N 1°55'22.199""E";45147;Rue Diderot;"";45400;FLEURY LES AUBRAIS;14/10/2021;En extérieur;RPUB_144244.pdf;Oui;1.37;Rue / Route / Parking;EXEM
+171021;1.885751;47.93123;"47°55'52.428""N 1°53'8.704""E";45302;Rue des Sablonnières;"";45770;SARAN;29/11/2021;En extérieur;RPUB_144548.pdf;Oui;0.74;Rue / Route / Parking;EXEM
+171034;1.873803;47.862607;"47°51'45.385""N 1°52'25.691""E";45232;Rue Maurice Clément;"";45160;OLIVET;30/11/2021;En extérieur;RPUB_144546.pdf;Oui;0.68;Rue / Route / Parking;EXEM
+171077;1.838256;47.935815;"47°56'8.934""N 1°50'17.722""E";45169;Rue de la Gare;"";45140;INGRE;29/09/2021;En extérieur;RPUB_144396.pdf;Oui;1.54;Rue / Route / Parking;EXEM
+171107;1.896717;47.916545;"47°54'59.562""N 1°53'48.181""E";45234;Rue des 2 Ponts;"";45000;ORLEANS;29/11/2021;En extérieur;RPUB_144547.pdf;Oui;0.97;Rue / Route / Parking;EXEM
+171169;1.921121;47.888074;"47°53'17.066""N 1°55'16.036""E";45286;Rue Demay;"";45650;SAINT JEAN LE BLANC;30/11/2021;En extérieur;RPUB_144549.pdf;Oui;0.83;Rue / Route / Parking;EXEM
+171208;1.942155;47.942506;"47°56'33.022""N 1°56'31.758""E";45147;Rue de la Forêt;"";45400;FLEURY LES AUBRAIS;29/11/2021;En extérieur;RPUB_144545.pdf;Oui;0.33;Rue / Route / Parking;EXEM
+171222;1.892664;47.902772;"47°54'9.979""N 1°53'33.590""E";45234;Rue Albert Lejeune;"";45000;ORLEANS;30/11/2021;En extérieur;RPUB_144578.pdf;Oui;2.24;Rue / Route / Parking;EXEM
+171361;1.958493;47.913705;"47°54'49.338""N 1°57'30.575""E";45284;Rue de la Motte Luquet;"";45800;SAINT JEAN DE BRAYE;29/11/2021;En extérieur;RPUB_144789.pdf;Oui;1.05;"Lieu d'habitation";EXEM
+171407;1.893131;47.901483;"47°54'5.339""N 1°53'35.272""E";45234;Boulevard Jean Jaurès;"";45000;ORLEANS;09/12/2021;En extérieur;RPUB_144818.pdf;Oui;2.77;Rue / Route / Parking;EXEM
+173620;1.900583;47.893028;"47°53'34.901""N 1°54'2.099""E";45234;Rue TUDELLE;"";45100;ORLEANS;18/03/2022;En intérieur;RPUB_146817.pdf;Oui;0.67;Locaux professionnels non accessibles au public;APAVE Parisienne - Paris 17
+173957;1.893725;47.902959;"47°54'10.652""N 1°53'37.410""E";45234;Rue Albert Lejeune;"";45000;ORLEANS;04/04/2022;En extérieur;RPUB_147161.pdf;Oui;3.75;Rue / Route / Parking;EXEM
+174024;1.922833;47.928627;"47°55'43.057""N 1°55'22.199""E";45147;Rue Diderot;"";45400;FLEURY LES AUBRAIS;11/04/2022;En extérieur;RPUB_147229.pdf;Oui;1.74;Rue / Route / Parking;EXEM
+174042;1.936616;47.873795;"47°52'25.662""N 1°56'11.818""E";45286;Route de Saint-Cyr;"";45650;SAINT JEAN LE BLANC;11/04/2022;En extérieur;RPUB_147230.pdf;Oui;0.78;Rue / Route / Parking;EXEM
+174105;1.894955;47.891955;"47°53'31.038""N 1°53'41.838""E";45234;Rue Guignegault;"";45100;ORLEANS;12/04/2022;En extérieur;RPUB_147298.pdf;Oui;1.49;Rue / Route / Parking;EXEM
+174109;1.894424;47.920916;"47°55'15.298""N 1°53'39.926""E";45234;Rue Ponson du Terrail;"";45000;ORLEANS;12/04/2022;En extérieur;RPUB_147297.pdf;Oui;1.23;Rue / Route / Parking;EXEM
+174117;1.926752;47.942658;"47°56'33.569""N 1°55'36.307""E";45147;Rue de Curembourg;"";45400;FLEURY LES AUBRAIS;12/04/2022;En extérieur;RPUB_147326.pdf;Oui;2.24;Rue / Route / Parking;EXEM
+174145;1.911156;47.909689;"47°54'34.880""N 1°54'40.162""E";45234;Rue Eugène Vignat;"";45000;ORLEANS;13/04/2022;En extérieur;RPUB_147364.pdf;Oui;1.07;Rue / Route / Parking;EXEM
+174152;1.923869;47.906711;"47°54'24.160""N 1°55'25.928""E";45234;Rue du Pressoir Neuf;"";45000;ORLEANS;13/04/2022;En extérieur;RPUB_147363.pdf;Oui;3.37;Rue / Route / Parking;EXEM
+174154;1.893131;47.901483;"47°54'5.339""N 1°53'35.272""E";45234;Boulevard Jean Jaurès;"";45000;ORLEANS;14/04/2022;En extérieur;RPUB_147362.pdf;Oui;3.34;Rue / Route / Parking;EXEM
+174170;1.905742;47.899405;"47°53'57.858""N 1°54'20.671""E";45234;Place du Châtelet;"";45000;ORLEANS;14/04/2022;En extérieur;RPUB_147365.pdf;Oui;1.24;Rue / Route / Parking;EXEM
+174171;1.97166;47.927278;"47°55'38.201""N 1°58'17.976""E";45284;Rue de la Grand Maison;"";45800;SAINT JEAN DE BRAYE;13/04/2022;En extérieur;RPUB_147377.pdf;Oui;1.32;Rue / Route / Parking;EXEM
+174183;1.877166;47.898518;"47°53'54.665""N 1°52'37.798""E";45285;Rue des Charrières;"";45140;SAINT JEAN DE LA RUELLE;14/04/2022;En extérieur;RPUB_147369.pdf;Oui;1.7;Rue / Route / Parking;EXEM
+174199;1.887539;47.891924;"47°53'30.926""N 1°53'15.140""E";45234;Rue Vieille Levée;"";45100;ORLEANS;14/04/2022;En extérieur;RPUB_147398.pdf;Oui;0.83;Rue / Route / Parking;EXEM
+174207;1.918176;47.844988;"47°50'41.957""N 1°55'5.434""E";45232;Route des Bourges;"";45160;OLIVET;15/04/2022;En extérieur;RPUB_147403.pdf;Oui;2.09;Rue / Route / Parking;EXEM
+174212;1.903024;47.874791;"47°52'29.248""N 1°54'10.886""E";45232;Rue des Pies;"";45160;OLIVET;15/04/2022;En extérieur;RPUB_147402.pdf;Oui;1.24;Rue / Route / Parking;EXEM
+174219;1.881145;47.906277;"47°54'22.597""N 1°52'52.122""E";45234;38 Venelle Gambetta;"";45000;ORLEANS;13/04/2022;En intérieur;RPUB_147431.pdf;Oui;0.86;"Lieu d'habitation";EXEM
+174224;1.928846;47.841175;"47°50'28.230""N 1°55'43.846""E";45234;Rue Charles Maurain;"";45100;ORLEANS;15/04/2022;En extérieur;RPUB_147397.pdf;Oui;1.35;Rue / Route / Parking;EXEM
+174280;1.860051;47.906574;"47°54'23.666""N 1°51'36.184""E";45285;Rue Jean Nicot;"";45140;SAINT JEAN DE LA RUELLE;14/04/2022;En extérieur;RPUB_147494.pdf;Oui;1.35;Rue / Route / Parking;EXEM
+174391;1.904461;47.913887;"47°54'49.993""N 1°54'16.060""E";45234;Rue des Sansonnières;"";45000;ORLEANS;13/04/2022;En extérieur;RPUB_147598.pdf;Oui;1.67;Rue / Route / Parking;EXEM
+174409;1.838256;47.935815;"47°56'8.934""N 1°50'17.722""E";45169;Rue de la Gare;"";45140;INGRE;12/04/2022;En extérieur;RPUB_147599.pdf;Oui;1.35;Rue / Route / Parking;EXEM
+174808;1.858336;47.948038;"47°56'52.937""N 1°51'30.010""E";45302;Rue Henri Becquerel;"";45770;SARAN;12/04/2022;En extérieur;RPUB_148001.pdf;Oui;1.19;Rue / Route / Parking;EXEM
+174809;1.892997;47.942401;"47°56'32.644""N 1°53'34.789""E";45302;Route Nationale 20;"";45770;SARAN;12/04/2022;En extérieur;RPUB_147999.pdf;Oui;1.92;Rue / Route / Parking;EXEM
+174819;1.838982;47.936563;"47°56'11.627""N 1°50'20.335""E";45169;Rue des Guettes;"";45140;INGRE;12/04/2022;En extérieur;RPUB_148000.pdf;Oui;2.24;Rue / Route / Parking;EXEM
+175112;1.836049;47.944065;"47°56'38.634""N 1°50'9.776""E";45235;Rue de Monbary;"";45140;ORMES;12/04/2022;En extérieur;RPUB_148303.pdf;Oui;1.63;Rue / Route / Parking;EXEM
+175884;1.896717;47.916545;"47°54'59.562""N 1°53'48.181""E";45234;Rue des 2 Ponts;"";45000;ORLEANS;23/06/2022;En extérieur;RPUB_149163.pdf;Oui;0.98;Rue / Route / Parking;EXEM
+175889;1.885751;47.93123;"47°55'52.428""N 1°53'8.704""E";45302;Rue des Sablonnières;"";45770;SARAN;23/06/2022;En extérieur;RPUB_149164.pdf;Oui;0.68;Rue / Route / Parking;EXEM
+175931;1.925161;47.91197;"47°54'43.092""N 1°55'30.580""E";45234;Rue Antoine Mariotte;"";45000;ORLEANS;23/06/2022;En extérieur;RPUB_149161.pdf;Oui;0.98;Rue / Route / Parking;EXEM
+175955;1.921121;47.888074;"47°53'17.066""N 1°55'16.036""E";45286;Rue Demay;"";45650;SAINT JEAN LE BLANC;23/06/2022;En extérieur;RPUB_149160.pdf;Oui;1.02;Rue / Route / Parking;EXEM
+175961;1.873803;47.862607;"47°51'45.385""N 1°52'25.691""E";45232;Rue Maurice Clément;"";45160;OLIVET;23/06/2022;En extérieur;RPUB_149162.pdf;Oui;0.68;Rue / Route / Parking;EXEM
+175964;1.861319;47.859237;"47°51'33.253""N 1°51'40.748""E";45232;Rue de la Trésorerie;"";45160;OLIVET;23/06/2022;En extérieur;RPUB_149165.pdf;Oui;0.74;Rue / Route / Parking;EXEM
+177069;1.904461;47.913887;"47°54'49.993""N 1°54'16.060""E";45234;Rue des Sansonnières;"";45000;ORLEANS;17/08/2022;En extérieur;RPUB_150237.pdf;Oui;1.73;Rue / Route / Parking;EXEM
+177075;1.894424;47.920916;"47°55'15.298""N 1°53'39.926""E";45234;Rue Ponson du Terrail;"";45000;ORLEANS;17/08/2022;En extérieur;RPUB_150235.pdf;Oui;1.16;Rue / Route / Parking;EXEM
+177080;1.911156;47.909689;"47°54'34.880""N 1°54'40.162""E";45234;Rue Eugène Vignat;"";45000;ORLEANS;17/08/2022;En extérieur;RPUB_150236.pdf;Oui;1.3;Rue / Route / Parking;EXEM
+177103;1.893597;47.902879;"47°54'10.364""N 1°53'36.949""E";45234;Rue Albert Lejeune;"";45000;ORLEANS;18/08/2022;En extérieur;RPUB_150260.pdf;Oui;2.42;Rue / Route / Parking;EXEM
+177104;1.893131;47.901483;"47°54'5.339""N 1°53'35.272""E";45234;Boulevard Jean Jaurès;"";45000;ORLEANS;18/08/2022;En extérieur;RPUB_150261.pdf;Oui;2.8;Rue / Route / Parking;EXEM
+177105;1.923873;47.90685;"47°54'24.660""N 1°55'25.943""E";45234;Rue du Pressoir Neuf;"";45000;ORLEANS;18/08/2022;En extérieur;RPUB_150262.pdf;Oui;2.65;Rue / Route / Parking;EXEM
+177553;1.971404;47.927128;"47°55'37.661""N 1°58'17.054""E";45284;Rue de la Grand Maison;"";45800;SAINT JEAN DE BRAYE;06/09/2022;En extérieur;RPUB_150699.pdf;Oui;1.16;Rue / Route / Parking;EXEM
+177706;1.899176;47.899046;"47°53'56.566""N 1°53'57.034""E";45234;Rue des Charretiers;"";45000;ORLEANS;12/09/2022;En intérieur;RPUB_150867.pdf;Oui;0.09;"Lieu d'habitation";EXEM
+177774;1.860051;47.906574;"47°54'23.666""N 1°51'36.184""E";45285;Rue Jean Nicot;"";45140;SAINT JEAN DE LA RUELLE;14/09/2022;En extérieur;RPUB_150949.pdf;Oui;1.28;Rue / Route / Parking;EXEM
+177779;1.877166;47.898518;"47°53'54.665""N 1°52'37.798""E";45285;Rue des Charrières;"";45140;SAINT JEAN DE LA RUELLE;14/09/2022;En extérieur;RPUB_150945.pdf;Oui;1.43;Rue / Route / Parking;EXEM
+177785;1.858336;47.948038;"47°56'52.937""N 1°51'30.010""E";45302;Rue Henri Becquerel;"";45770;SARAN;13/09/2022;En extérieur;RPUB_150942.pdf;Oui;1.24;Rue / Route / Parking;EXEM
+177803;1.892997;47.942401;"47°56'32.644""N 1°53'34.789""E";45302;Route Nationale 20;"";45770;SARAN;13/09/2022;En extérieur;RPUB_150944.pdf;Oui;2.12;Rue / Route / Parking;EXEM
+177804;1.926752;47.942658;"47°56'33.569""N 1°55'36.307""E";45147;Rue de Curembourg;"";45400;FLEURY LES AUBRAIS;13/09/2022;En extérieur;RPUB_150947.pdf;Oui;2.4;Rue / Route / Parking;EXEM
+177811;1.922833;47.928627;"47°55'43.057""N 1°55'22.199""E";45147;Rue Diderot;"";45400;FLEURY LES AUBRAIS;13/09/2022;En extérieur;RPUB_150948.pdf;Oui;1.59;Rue / Route / Parking;EXEM
+177814;1.838982;47.936563;"47°56'11.627""N 1°50'20.335""E";45169;Rue des Guettes;"";45140;INGRE;14/09/2022;En extérieur;RPUB_150946.pdf;Oui;2.22;Rue / Route / Parking;EXEM
+177822;1.928846;47.841175;"47°50'28.230""N 1°55'43.846""E";45234;Rue Charles Maurain;"";45100;ORLEANS;15/09/2022;En extérieur;RPUB_150991.pdf;Oui;1.73;Rue / Route / Parking;EXEM
+177823;1.903024;47.874791;"47°52'29.248""N 1°54'10.886""E";45232;Rue des Pies;"";45160;OLIVET;15/09/2022;En extérieur;RPUB_150988.pdf;Oui;1.67;Rue / Route / Parking;EXEM
+177833;1.936616;47.873795;"47°52'25.662""N 1°56'11.818""E";45286;Route de Saint-Cyr;"";45650;SAINT JEAN LE BLANC;15/09/2022;En extérieur;RPUB_150990.pdf;Oui;0.69;Rue / Route / Parking;EXEM
+177845;1.894955;47.891955;"47°53'31.038""N 1°53'41.838""E";45234;Rue Guignegault;"";45100;ORLEANS;15/09/2022;En extérieur;RPUB_150992.pdf;Oui;0.99;Rue / Route / Parking;EXEM
+177848;1.836049;47.944065;"47°56'38.634""N 1°50'9.776""E";45235;Rue de Monbary;"";45140;ORMES;15/09/2022;En extérieur;RPUB_150987.pdf;Oui;1.56;Rue / Route / Parking;EXEM
+177849;1.918176;47.844988;"47°50'41.957""N 1°55'5.434""E";45232;Route des Bourges;"";45160;OLIVET;15/09/2022;En extérieur;RPUB_150989.pdf;Oui;2.29;Rue / Route / Parking;EXEM
+177868;1.838256;47.935815;"47°56'8.934""N 1°50'17.722""E";45169;Rue de la Gare;"";45140;INGRE;14/09/2022;En extérieur;RPUB_151041.pdf;Oui;1.41;Rue / Route / Parking;EXEM
+178191;1.892266;47.95538;"47°57'19.368""N 1°53'32.158""E";45302;Rue Gabriel Debacq;"";45770;SARAN;04/10/2022;En intérieur;RPUB_151357.pdf;Oui;1.69;"Lieu d'habitation";EXEM
+178197;1.887567;47.891967;"47°53'31.081""N 1°53'15.241""E";45234;Rue Vieille Levée;"";45100;ORLEANS;04/10/2022;En extérieur;RPUB_151346.pdf;Oui;0.82;Rue / Route / Parking;EXEM
+178199;1.905677;47.899441;"47°53'57.988""N 1°54'20.437""E";45234;Place du Châtelet;"";45000;ORLEANS;04/10/2022;En extérieur;RPUB_151345.pdf;Oui;1.21;Rue / Route / Parking;EXEM
+179004;1.861367;47.85926;"47°51'33.336""N 1°51'40.921""E";45232;Rue de la Trésorerie;"";45160;OLIVET;03/10/2022;En extérieur;RPUB_152170.pdf;Oui;0.81;Rue / Route / Parking;EXEM
+179005;1.92117;47.888068;"47°53'17.045""N 1°55'16.212""E";45286;Rue Demay;"";45650;SAINT JEAN LE BLANC;04/10/2022;En extérieur;RPUB_152165.pdf;Oui;1.07;Rue / Route / Parking;EXEM
+179008;1.896772;47.916543;"47°54'59.555""N 1°53'48.379""E";45234;Rue des 2 Ponts;"";45000;ORLEANS;04/10/2022;En extérieur;RPUB_152168.pdf;Oui;1.02;Rue / Route / Parking;EXEM
+179012;1.925182;47.911963;"47°54'43.067""N 1°55'30.655""E";45234;Rue Antoine Mariotte;"";45000;ORLEANS;04/10/2022;En extérieur;RPUB_152166.pdf;Oui;0.88;Rue / Route / Parking;EXEM
+179013;1.885765;47.931102;"47°55'51.967""N 1°53'8.754""E";45302;Rue des Sablonnières;"";45770;SARAN;04/10/2022;En extérieur;RPUB_152169.pdf;Oui;0.49;Rue / Route / Parking;EXEM
+179022;1.873813;47.862629;"47°51'45.464""N 1°52'25.727""E";45232;Rue Maurice Clément;"";45160;OLIVET;04/10/2022;En extérieur;RPUB_152167.pdf;Oui;0.57;Rue / Route / Parking;EXEM
+179563;1.88941;47.921501;"47°55'17.404""N 1°53'21.876""E";45234;Rue Croix Baudu;"";45000;ORLEANS;22/11/2022;En extérieur;RPUB_152699.pdf;Oui;1.09;Rue / Route / Parking;EXEM
+179582;1.906544;47.899331;"47°53'57.592""N 1°54'23.558""E";45234;Place du Châtelet;"";45000;ORLEANS;22/11/2022;En extérieur;RPUB_152697.pdf;Oui;0.66;Rue / Route / Parking;EXEM
+179592;1.893866;47.903133;"47°54'11.279""N 1°53'37.918""E";45234;Boulevard Jean Jaurès;"";45000;ORLEANS;22/11/2022;En extérieur;RPUB_152696.pdf;Oui;2.12;Rue / Route / Parking;EXEM
+179599;1.929638;47.911801;"47°54'42.484""N 1°55'46.697""E";45234;Rue Jean-Philippe Rameau;"";45000;ORLEANS;22/11/2022;En extérieur;RPUB_152700.pdf;Oui;1.22;Rue / Route / Parking;EXEM
+179602;1.881651;47.900269;"47°54'0.968""N 1°52'53.944""E";45234;Rue Porte Dunoise;"";45000;ORLEANS;22/11/2022;En extérieur;RPUB_152698.pdf;Oui;0.22;Rue / Route / Parking;EXEM
+179622;1.894752;47.888198;"47°53'17.513""N 1°53'41.107""E";45234;Rue du Clos Rozé;"";45000;ORLEANS;22/11/2022;En extérieur;RPUB_152695.pdf;Oui;0.49;Rue / Route / Parking;EXEM
+180333;1.933959;47.837423;"47°50'14.723""N 1°56'2.252""E";45234;Rue Ernest Renan;"";45000;ORLEANS;22/11/2022;En extérieur;RPUB_153388.pdf;Oui;0.48;Rue / Route / Parking;EXEM
+180940;1.964321;47.907224;"47°54'26.006""N 1°57'51.556""E";45284;Rue de la Sente;"";45800;SAINT JEAN DE BRAYE;01/03/2023;En intérieur;RPUB_154002.pdf;Oui;0.03;"Lieu d'habitation";EXEM
+181045;1.931624;47.834714;"47°50'4.970""N 1°55'53.846""E";45234;Rue Edouard Branly;"";45100;ORLEANS;14/03/2023;En extérieur;RPUB_154121.pdf;Oui;1.18;Rue / Route / Parking;EXEM
+181049;1.932139;47.835974;"47°50'9.506""N 1°55'55.700""E";45234;Station de Tram Chèques Postaux;"";45000;ORLEANS;14/03/2023;En extérieur;RPUB_154123.pdf;Oui;0.68;Rue / Route / Parking;EXEM
+181052;1.933925;47.837032;"47°50'13.315""N 1°56'2.130""E";45234;Place Choiseul;"";45100;ORLEANS;14/03/2023;En extérieur;RPUB_154120.pdf;Oui;0.96;Rue / Route / Parking;EXEM
+181053;1.929452;47.834693;"47°50'4.895""N 1°55'46.027""E";45234;Place Pierre-Minouflet;"";45100;ORLEANS;14/03/2023;En extérieur;RPUB_154119.pdf;Oui;0.98;Rue / Route / Parking;EXEM
+181056;1.928966;47.831613;"47°49'53.807""N 1°55'44.278""E";45234;Station de Tram Bolière;"";45000;ORLEANS;14/03/2023;En extérieur;RPUB_154122.pdf;Oui;1.72;Rue / Route / Parking;EXEM
+181061;1.944922;47.8247;"47°49'28.920""N 1°56'41.719""E";45234;Rue Geogres Cuvier;"";45100;ORLEANS;14/03/2023;En extérieur;RPUB_154118.pdf;Oui;0.26;Rue / Route / Parking;EXEM
+181068;1.919242;47.837439;"47°50'14.780""N 1°55'9.271""E";45234;Station de Tram Hôpital Terminus;"";45000;ORLEANS;15/03/2023;En extérieur;RPUB_154141.pdf;Oui;0.26;Rue / Route / Parking;EXEM
+181072;1.919678;47.832049;"47°49'55.376""N 1°55'10.841""E";45234;Station de Tram Hôpital Accueil;"";45000;ORLEANS;15/03/2023;En extérieur;RPUB_154140.pdf;Oui;0.61;Rue / Route / Parking;EXEM
+181073;1.934988;47.839733;"47°50'23.039""N 1°56'5.957""E";45234;"Station de Tram L'indien";"";45000;ORLEANS;15/03/2023;En extérieur;RPUB_154139.pdf;Oui;0.7;Rue / Route / Parking;EXEM
+181077;1.917001;47.846576;"47°50'47.674""N 1°55'1.204""E";45232;Station de Tram Les Aulnaies;"";45160;OLIVET;15/03/2023;En extérieur;RPUB_154144.pdf;Oui;0.94;Rue / Route / Parking;EXEM
+181079;1.925284;47.849722;"47°50'58.999""N 1°55'31.022""E";45232;Station de Tram Lorette;"";45160;OLIVET;15/03/2023;En extérieur;RPUB_154143.pdf;Oui;0.18;Rue / Route / Parking;EXEM
+181080;1.931701;47.8469;"47°50'48.840""N 1°55'54.124""E";45234;Station de Tram Université;"";45000;ORLEANS;15/03/2023;En extérieur;RPUB_154142.pdf;Oui;0.25;Rue / Route / Parking;EXEM
+181095;1.936244;47.845476;"47°50'43.714""N 1°56'10.478""E";45234;Station de Tram Parc Floral;"";45000;ORLEANS;16/03/2023;En extérieur;RPUB_154168.pdf;Oui;0.23;Rue / Route / Parking;EXEM
+181097;1.943035;47.839561;"47°50'22.420""N 1°56'34.926""E";45234;"Avenue de la recherche scientifique,";"";45000;ORLEANS;16/03/2023;En extérieur;RPUB_154164.pdf;Oui;1.51;Rue / Route / Parking;EXEM
+181098;1.909562;47.854331;"47°51'15.592""N 1°54'34.423""E";45232;Station de Tram Larry;"";45160;OLIVET;16/03/2023;En extérieur;RPUB_154165.pdf;Oui;0.32;Rue / Route / Parking;EXEM
+181100;1.912246;47.869368;"47°52'9.725""N 1°54'44.086""E";45232;Station de Tram Zenith;"";45160;OLIVET;16/03/2023;En extérieur;RPUB_154167.pdf;Oui;0.29;Rue / Route / Parking;EXEM
+181106;1.905022;47.857407;"47°51'26.665""N 1°54'18.079""E";45232;Station de Tram Victor Hugo;"";45160;OLIVET;16/03/2023;En extérieur;RPUB_154166.pdf;Oui;0.37;Rue / Route / Parking;EXEM
+181107;1.93757;47.847539;"47°50'51.140""N 1°56'15.252""E";45234;Avenue de Parc Floral;"";45100;ORLEANS;16/03/2023;En extérieur;RPUB_154163.pdf;Oui;0.22;Rue / Route / Parking;EXEM
+181127;1.91313;47.874977;"47°52'29.917""N 1°54'47.268""E";45234;"Station de Tram Co'Met";"";45100;ORLEANS;17/03/2023;En extérieur;RPUB_154185.pdf;Oui;1.01;Rue / Route / Parking;EXEM
+181131;1.909277;47.883638;"47°53'1.097""N 1°54'33.397""E";45234;Station de Tram Mouillère;"";45100;ORLEANS;20/03/2023;En extérieur;RPUB_154217.pdf;Oui;0.18;Rue / Route / Parking;EXEM
+181132;1.906986;47.926408;"47°55'35.069""N 1°54'25.150""E";45147;Station de tram Gare des Aubrais;"";45400;FLEURY LES AUBRAIS;20/03/2023;En extérieur;RPUB_154213.pdf;Oui;0.65;Rue / Route / Parking;EXEM
+181136;1.903139;47.885272;"47°53'6.979""N 1°54'11.300""E";45234;Place de la Cigogne;"";45100;ORLEANS;20/03/2023;En extérieur;RPUB_154208.pdf;Oui;0.4;Rue / Route / Parking;EXEM
+181137;1.925268;47.928126;"47°55'41.254""N 1°55'30.965""E";45147;Station de tram Jules Vernes;"";45400;FLEURY LES AUBRAIS;20/03/2023;En extérieur;RPUB_154212.pdf;Oui;0.89;Rue / Route / Parking;EXEM
+181138;1.89313;47.925214;"47°55'30.770""N 1°53'35.268""E";45234;Rue Charles le Chauve;"";45000;ORLEANS;20/03/2023;En extérieur;RPUB_154220.pdf;Oui;0.32;Rue / Route / Parking;EXEM
+181139;1.912973;47.929291;"47°55'45.448""N 1°54'46.703""E";45147;Station de tram Bustière;"";45400;FLEURY LES AUBRAIS;20/03/2023;En extérieur;RPUB_154214.pdf;Oui;0.33;Rue / Route / Parking;EXEM
+181141;1.897798;47.886358;"47°53'10.889""N 1°53'52.073""E";45234;Rue de la Cigogne;"";45100;ORLEANS;20/03/2023;En extérieur;RPUB_154209.pdf;Oui;0.29;Rue / Route / Parking;EXEM
+181143;1.892868;47.924291;"47°55'27.448""N 1°53'34.325""E";45234;Rue Charles le Chauve;"";45000;ORLEANS;20/03/2023;En intérieur;RPUB_154219.pdf;Oui;0.63;Rue / Route / Parking;EXEM
+181146;1.89453;47.927276;"47°55'38.194""N 1°53'40.308""E";45234;"Rue de l'Ormerie";"";45000;ORLEANS;20/03/2023;En extérieur;RPUB_154221.pdf;Oui;0.33;Rue / Route / Parking;EXEM
+181147;1.900656;47.90736;"47°54'26.496""N 1°54'2.362""E";45234;Place Gambetta;"";45000;ORLEANS;20/03/2023;En extérieur;RPUB_154216.pdf;Oui;0.5;Rue / Route / Parking;EXEM
+181149;1.910388;47.886732;"47°53'12.235""N 1°54'37.397""E";45234;Rue des Roses;"";45000;ORLEANS;20/03/2023;En extérieur;RPUB_154207.pdf;Oui;0.21;Rue / Route / Parking;EXEM
+181150;1.90881;47.884845;"47°53'5.442""N 1°54'31.716""E";45234;Avenue de la Mouillère;"";45100;ORLEANS;20/03/2023;En extérieur;RPUB_154206.pdf;Oui;0.16;Rue / Route / Parking;EXEM
+181151;1.919453;47.928133;"47°55'41.279""N 1°55'10.031""E";45147;Station de tram Lamballe;"";45400;FLEURY LES AUBRAIS;20/03/2023;En extérieur;RPUB_154211.pdf;Oui;2.11;Rue / Route / Parking;EXEM
+181153;1.89615;47.921217;"47°55'16.381""N 1°53'46.140""E";45234;Rue Charles Perrault;"";45000;ORLEANS;20/03/2023;En extérieur;RPUB_154218.pdf;Oui;1.85;Rue / Route / Parking;EXEM
+181154;1.924946;47.918967;"47°55'8.281""N 1°55'29.806""E";45234;"Avenue des droits de l'homme";"";45000;ORLEANS;20/03/2023;En extérieur;RPUB_154215.pdf;Oui;0.22;Rue / Route / Parking;EXEM
+181156;1.90535;47.888578;"47°53'18.881""N 1°54'19.260""E";45234;station tram St Marceau;"";45000;ORLEANS;20/03/2023;En extérieur;RPUB_154210.pdf;Oui;1.67;Rue / Route / Parking;EXEM
+181158;1.882111;47.899891;"47°53'59.608""N 1°52'55.600""E";45234;Rue du Faubourg Madeleine;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154247.pdf;Oui;0.2;Rue / Route / Parking;EXEM
+181159;1.854338;47.896965;"47°53'49.074""N 1°51'15.617""E";45075;station tram Georges Pompidou;"";45380;CHAPELLE SAINT MESMIN;21/03/2023;En extérieur;RPUB_154227.pdf;Oui;0.76;Rue / Route / Parking;EXEM
+181160;1.902184;47.904853;"47°54'17.471""N 1°54'7.862""E";45234;Rue Bannier;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154244.pdf;Oui;0.16;Rue / Route / Parking;EXEM
+181161;1.88122;47.899836;"47°53'59.410""N 1°52'52.392""E";45234;station tram Porte Dunoise;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154228.pdf;Oui;0.53;Rue / Route / Parking;EXEM
+181162;1.860269;47.902009;"47°54'7.232""N 1°51'36.968""E";45285;station tram Trois fontaines;"";45140;SAINT JEAN DE LA RUELLE;21/03/2023;En extérieur;RPUB_154232.pdf;Oui;0.94;Rue / Route / Parking;EXEM
+181164;1.922393;47.911769;"47°54'42.368""N 1°55'20.615""E";45234;"Station de Tram Droits de l'homme";"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154245.pdf;Oui;1.12;Rue / Route / Parking;EXEM
+181165;1.90879;47.903057;"47°54'11.005""N 1°54'31.644""E";45234;station tram Cathédrale;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154233.pdf;Oui;0.53;Rue / Route / Parking;EXEM
+181167;1.866876;47.901806;"47°54'6.502""N 1°52'0.754""E";45285;station tram Martin Luther King;"";45140;SAINT JEAN DE LA RUELLE;21/03/2023;En extérieur;RPUB_154231.pdf;Oui;0.61;Rue / Route / Parking;EXEM
+181168;1.936791;47.90882;"47°54'31.752""N 1°56'12.448""E";45234;Station de Tram Ambert;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154242.pdf;Oui;0.6;Rue / Route / Parking;EXEM
+181169;1.931427;47.911157;"47°54'40.165""N 1°55'53.137""E";45234;Boulevard Marie Stuart;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154235.pdf;Oui;1.25;Rue / Route / Parking;EXEM
+181170;1.930354;47.91714;"47°55'1.704""N 1°55'49.274""E";45234;Rue du 11 Novembre;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154236.pdf;Oui;2.47;Rue / Route / Parking;EXEM
+181172;1.928358;47.911423;"47°54'41.123""N 1°55'42.089""E";45234;Station de Tram Mozart;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154240.pdf;Oui;0.5;Rue / Route / Parking;EXEM
+181173;1.929216;47.912143;"47°54'43.715""N 1°55'45.178""E";45234;Place Mozart;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154234.pdf;Oui;1.05;Rue / Route / Parking;EXEM
+181174;1.871775;47.902627;"47°54'9.457""N 1°52'18.390""E";45285;station tram Rol Tanguy;"";45140;SAINT JEAN DE LA RUELLE;21/03/2023;En extérieur;RPUB_154230.pdf;Oui;1.23;Rue / Route / Parking;EXEM
+181175;1.905054;47.906776;"47°54'24.394""N 1°54'18.194""E";45234;"Station de Tram Gare d'Orléans";"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154237.pdf;Oui;0.28;Rue / Route / Parking;EXEM
+181177;1.912525;47.908402;"47°54'30.247""N 1°54'45.090""E";45234;Rue Pierre Premier de Serbie;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154246.pdf;Oui;0.34;Rue / Route / Parking;EXEM
+181180;1.90946;47.904901;"47°54'17.644""N 1°54'34.056""E";45234;Station de Tram Halmagrand;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154243.pdf;Oui;0.28;Rue / Route / Parking;EXEM
+181182;1.904484;47.904726;"47°54'17.014""N 1°54'16.142""E";45234;Station de Tram République;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154239.pdf;Oui;1.02;Rue / Route / Parking;EXEM
+181185;1.876465;47.899145;"47°53'56.922""N 1°52'35.274""E";45285;"station tram Pont de l'Europe";"";45140;SAINT JEAN DE LA RUELLE;21/03/2023;En extérieur;RPUB_154229.pdf;Oui;0.94;Rue / Route / Parking;EXEM
+181186;1.932971;47.910287;"47°54'37.033""N 1°55'58.696""E";45234;Station de Tram Grand Villiers;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154241.pdf;Oui;1.96;Rue / Route / Parking;EXEM
+181187;1.903926;47.911161;"47°54'40.180""N 1°54'14.134""E";45234;Station de Tram Louis Braille;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154238.pdf;Oui;2.53;Rue / Route / Parking;EXEM
+181188;1.914585;47.904075;"47°54'14.670""N 1°54'52.506""E";45234;Boulevard Pierre Segelle;"";45000;ORLEANS;21/03/2023;En extérieur;RPUB_154272.pdf;Oui;1.14;Rue / Route / Parking;EXEM
+181189;1.945846;47.910294;"47°54'37.058""N 1°56'45.046""E";45284;Station de tram Gaudier Breska;"";45800;SAINT JEAN DE BRAYE;22/03/2023;En extérieur;RPUB_154264.pdf;Oui;0.45;Rue / Route / Parking;EXEM
+181192;1.900244;47.916035;"47°54'57.726""N 1°54'0.878""E";45234;Station de Tram Coligny;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154271.pdf;Oui;0.22;Rue / Route / Parking;EXEM
+181193;1.900738;47.900713;"47°54'2.567""N 1°54'2.657""E";45234;Rue des Chats Ferrés;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154259.pdf;Oui;0.25;Rue / Route / Parking;EXEM
+181194;1.904519;47.894456;"47°53'40.042""N 1°54'16.268""E";45234;station tram Tourelles Dauphine;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154260.pdf;Oui;0.96;Rue / Route / Parking;EXEM
+181195;1.912764;47.914758;"47°54'53.129""N 1°54'45.950""E";45234;Boulevard Lamartine;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154276.pdf;Oui;1.87;Rue / Route / Parking;EXEM
+181197;1.894541;47.894046;"47°53'38.566""N 1°53'40.348""E";45234;Avenue du Champ de Mars;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154266.pdf;Oui;2.03;Rue / Route / Parking;EXEM
+181198;1.958377;47.909194;"47°54'33.098""N 1°57'30.157""E";45284;Station de tram Verville;"";45800;SAINT JEAN DE BRAYE;22/03/2023;En extérieur;RPUB_154267.pdf;Oui;0.58;Rue / Route / Parking;EXEM
+181199;1.9643;47.909899;"47°54'35.636""N 1°57'51.480""E";45284;"Station de tram du Clos de l'Arche";"";45800;SAINT JEAN DE BRAYE;22/03/2023;En extérieur;RPUB_154268.pdf;Oui;1.48;Rue / Route / Parking;EXEM
+181201;1.96902;47.910352;"47°54'37.267""N 1°58'8.472""E";45284;Station de tram Léon Blum;"";45800;SAINT JEAN DE BRAYE;22/03/2023;En extérieur;RPUB_154269.pdf;Oui;0.71;Rue / Route / Parking;EXEM
+181202;1.974599;47.910862;"47°54'39.103""N 1°58'28.556""E";45284;Station de tram Clos du Hameau;"";45800;SAINT JEAN DE BRAYE;22/03/2023;En extérieur;RPUB_154270.pdf;Oui;0.15;Rue / Route / Parking;EXEM
+181204;1.903465;47.919551;"47°55'10.384""N 1°54'12.474""E";45234;Station de Tram Libération;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154273.pdf;Oui;1.04;Rue / Route / Parking;EXEM
+181205;1.89802;47.891762;"47°53'30.343""N 1°53'52.872""E";45234;Place du Jardin des Plantes;"";45100;ORLEANS;22/03/2023;En extérieur;RPUB_154258.pdf;Oui;0.9;Rue / Route / Parking;EXEM
+181206;1.9222;47.906289;"47°54'22.640""N 1°55'19.920""E";45234;Place du Champ Saint-Marc;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154263.pdf;Oui;0.66;Rue / Route / Parking;EXEM
+181207;1.886843;47.900735;"47°54'2.646""N 1°53'12.635""E";45234;station tram Beaumonts;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154262.pdf;Oui;0.2;Rue / Route / Parking;EXEM
+181208;1.953013;47.909021;"47°54'32.476""N 1°57'10.847""E";45284;Station de tram Pont Bordeau;"";45800;SAINT JEAN DE BRAYE;22/03/2023;En extérieur;RPUB_154265.pdf;Oui;0.32;Rue / Route / Parking;EXEM
+181209;1.89275;47.9013;"47°54'4.680""N 1°53'33.900""E";45234;station tram Madeleine;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154261.pdf;Oui;3.25;Rue / Route / Parking;EXEM
+181210;1.913138;47.912796;"47°54'46.066""N 1°54'47.297""E";45234;Station de Tram Guy-Marie Riobé;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154275.pdf;Oui;0.82;Rue / Route / Parking;EXEM
+181213;1.911189;47.909496;"47°54'34.186""N 1°54'40.280""E";45234;Station de Tram Eugène Vignat - Palais des Sports;"";45000;ORLEANS;22/03/2023;En extérieur;RPUB_154274.pdf;Oui;1.16;Rue / Route / Parking;EXEM
+181218;1.908813;47.898283;"47°53'53.819""N 1°54'31.727""E";45234;Place de Loire;"";45000;ORLEANS;23/03/2023;En extérieur;RPUB_154284.pdf;Oui;0.19;Rue / Route / Parking;EXEM
+181219;1.92426;47.900707;"47°54'2.545""N 1°55'27.336""E";45234;Rue Charles Péguy;"";45000;ORLEANS;23/03/2023;En extérieur;RPUB_154289.pdf;Oui;0.26;Rue / Route / Parking;EXEM
+181225;1.904109;47.898849;"47°53'55.856""N 1°54'14.792""E";45234;station tram Royale Chatelet;"";45000;ORLEANS;23/03/2023;En extérieur;RPUB_154286.pdf;Oui;0.24;Rue / Route / Parking;EXEM
+181226;1.913538;47.899125;"47°53'56.850""N 1°54'48.737""E";45234;Rue de la Tour Neuve;"";45000;ORLEANS;23/03/2023;En extérieur;RPUB_154285.pdf;Oui;0.15;Rue / Route / Parking;EXEM
+181228;1.90632;47.901615;"47°54'5.814""N 1°54'22.752""E";45234;"Station de tram Jeanne d'Arc";"";45000;ORLEANS;23/03/2023;En extérieur;RPUB_154288.pdf;Oui;0.21;Rue / Route / Parking;EXEM
+181231;1.906418;47.899095;"47°53'56.742""N 1°54'23.105""E";45234;Place du Chatelet;"";45000;ORLEANS;23/03/2023;En extérieur;RPUB_154283.pdf;Oui;0.6;Rue / Route / Parking;EXEM
+181232;1.872332;47.899184;"47°53'57.062""N 1°52'20.395""E";45285;Impasse Paul Bert;"";45140;SAINT JEAN DE LA RUELLE;23/03/2023;En extérieur;RPUB_154292.pdf;Oui;1.58;Rue / Route / Parking;EXEM
+181236;1.902931;47.901283;"47°54'4.619""N 1°54'10.552""E";45234;Station tram de Gaulle;"";45000;ORLEANS;23/03/2023;En extérieur;RPUB_154287.pdf;Oui;1.28;Rue / Route / Parking;EXEM
+181239;1.90851;47.900268;"47°54'0.965""N 1°54'30.636""E";45234;Place St Pierre Empont;"";45000;ORLEANS;23/03/2023;En extérieur;RPUB_154290.pdf;Oui;0.13;Rue / Route / Parking;EXEM
+181248;1.897285;47.90184;"47°54'6.624""N 1°53'50.226""E";45234;station tram Croix Morin;"";45000;ORLEANS;22/03/2023;En intérieur;RPUB_154311.pdf;Oui;0.79;Rue / Route / Parking;EXEM
+181250;1.91042;47.902743;"47°54'9.875""N 1°54'37.512""E";45234;Rue Dupanloup;"";45000;ORLEANS;24/03/2023;En extérieur;RPUB_154312.pdf;Oui;0.22;Rue / Route / Parking;EXEM
+181273;1.905282;47.90135;"47°54'4.860""N 1°54'19.015""E";45234;Rue Sainte Catherine;"";45000;ORLEANS;24/03/2023;En intérieur;RPUB_154325.pdf;Oui;0.19;"Lieu d'habitation";EXEM
+181983;1.920526;47.931275;"47°55'52.590""N 1°55'13.894""E";45147;Place de la République;"";45400;FLEURY LES AUBRAIS;10/05/2023;En extérieur;RPUB_155054.pdf;Oui;0.28;Rue / Route / Parking;EXEM
+181990;1.971096;47.912331;"47°54'44.392""N 1°58'15.946""E";45284;Rue de la Mairie;"";45800;SAINT JEAN DE BRAYE;10/05/2023;En extérieur;RPUB_155055.pdf;Oui;0.16;Rue / Route / Parking;EXEM
+181997;1.874328;47.912761;"47°54'45.940""N 1°52'27.581""E";45285;Rue Charles Beauhaire;"";45140;SAINT JEAN DE LA RUELLE;10/05/2023;En extérieur;RPUB_155053.pdf;Oui;0.12;Rue / Route / Parking;EXEM
+181999;1.908832;47.902549;"47°54'9.176""N 1°54'31.795""E";45234;"Place de l'Etape";"";45000;ORLEANS;10/05/2023;En extérieur;RPUB_155052.pdf;Oui;0.55;Rue / Route / Parking;EXEM
+182449;1.872536;47.862459;"47°51'44.852""N 1°52'21.130""E";45232;Rue Jacques Nioche;"";45160;OLIVET;26/06/2023;En extérieur;RPUB_155507.pdf;Oui;0.51;"Lieu d'habitation";EXEM
+182641;1.877166;47.898518;"47°53'54.665""N 1°52'37.798""E";45285;Rue des Charrières;"";45140;SAINT JEAN DE LA RUELLE;23/06/2023;En extérieur;RPUB_155759.pdf;Oui;1.28;Rue / Route / Parking;EXEM
+182642;1.858336;47.948038;"47°56'52.937""N 1°51'30.010""E";45302;Rue Henri Becquerel;"";45770;SARAN;23/06/2023;En extérieur;RPUB_155760.pdf;Oui;1.14;Rue / Route / Parking;EXEM
+182686;1.860051;47.906574;"47°54'23.666""N 1°51'36.184""E";45285;Rue Jean Nicot;"";45140;SAINT JEAN DE LA RUELLE;23/06/2023;En extérieur;RPUB_155757.pdf;Oui;1.28;Rue / Route / Parking;EXEM
+183225;1.894955;47.891955;"47°53'31.038""N 1°53'41.838""E";45234;Rue Guignegault;"";45100;ORLEANS;17/07/2023;En extérieur;RPUB_156284.pdf;Oui;1.06;Rue / Route / Parking;EXEM
+183237;1.903024;47.874791;"47°52'29.248""N 1°54'10.886""E";45232;Rue des Pies;"";45160;OLIVET;17/07/2023;En extérieur;RPUB_156285.pdf;Oui;1.09;Rue / Route / Parking;EXEM
+183243;1.936616;47.873795;"47°52'25.662""N 1°56'11.818""E";45286;Route de Saint-Cyr;"";45650;SAINT JEAN LE BLANC;17/07/2023;En extérieur;RPUB_156286.pdf;Oui;0.58;Rue / Route / Parking;EXEM
+183251;1.893663;47.902941;"47°54'10.588""N 1°53'37.187""E";45234;Rue Albert Lejeune;"";45000;ORLEANS;18/07/2023;En extérieur;RPUB_156316.pdf;Oui;2.5;Rue / Route / Parking;EXEM
+183252;1.893131;47.901483;"47°54'5.339""N 1°53'35.272""E";45234;Boulevard Jean Jaurès;"";45000;ORLEANS;18/07/2023;En extérieur;RPUB_156317.pdf;Oui;2.75;Rue / Route / Parking;EXEM
+183253;1.923869;47.906711;"47°54'24.160""N 1°55'25.928""E";45234;Rue du Pressoir Neuf;"";45000;ORLEANS;18/07/2023;En extérieur;RPUB_156318.pdf;Oui;4.27;Rue / Route / Parking;EXEM
+183267;1.911156;47.909689;"47°54'34.880""N 1°54'40.162""E";45234;Rue Eugène Vignat;"";45000;ORLEANS;18/07/2023;En extérieur;RPUB_156319.pdf;Oui;1.44;Rue / Route / Parking;EXEM
+183270;1.905742;47.899405;"47°53'57.858""N 1°54'20.671""E";45234;Place du Châtelet;"";45000;ORLEANS;18/07/2023;En extérieur;RPUB_156320.pdf;Oui;1.2;Rue / Route / Parking;EXEM
+183275;1.887539;47.891924;"47°53'30.926""N 1°53'15.140""E";45234;Rue Vieille Levée;"";45100;ORLEANS;17/07/2023;En extérieur;RPUB_156321.pdf;Oui;0.93;Rue / Route / Parking;EXEM
+183292;1.836049;47.944065;"47°56'38.634""N 1°50'9.776""E";45235;Rue de Monbary;"";45140;ORMES;19/07/2023;En extérieur;RPUB_156380.pdf;Oui;1.77;Rue / Route / Parking;EXEM
+183301;1.838256;47.935815;"47°56'8.934""N 1°50'17.722""E";45169;Rue de la Gare;"";45140;INGRE;20/07/2023;En extérieur;RPUB_156383.pdf;Oui;1.28;Rue / Route / Parking;EXEM
+183307;1.922833;47.928627;"47°55'43.057""N 1°55'22.199""E";45147;Rue Diderot;"";45400;FLEURY LES AUBRAIS;19/07/2023;En extérieur;RPUB_156386.pdf;Oui;1.37;Rue / Route / Parking;EXEM
+183318;1.893039;47.942351;"47°56'32.464""N 1°53'34.940""E";45302;Route Nationale 20;"";45770;SARAN;19/07/2023;En extérieur;RPUB_156381.pdf;Oui;1.95;Rue / Route / Parking;EXEM
+183327;1.894424;47.920916;"47°55'15.298""N 1°53'39.926""E";45234;Rue Ponson du Terrail;"";45000;ORLEANS;19/07/2023;En extérieur;RPUB_156378.pdf;Oui;0.96;Rue / Route / Parking;EXEM
+183330;1.838982;47.936563;"47°56'11.627""N 1°50'20.335""E";45169;Rue des Guettes;"";45140;INGRE;20/07/2023;En extérieur;RPUB_156382.pdf;Oui;1.87;Rue / Route / Parking;EXEM
+183335;1.928846;47.841175;"47°50'28.230""N 1°55'43.846""E";45234;Rue Charles Maurain;"";45100;ORLEANS;20/07/2023;En extérieur;RPUB_156377.pdf;Oui;1.6;Rue / Route / Parking;EXEM
+183336;1.926752;47.942658;"47°56'33.569""N 1°55'36.307""E";45147;Rue de Curembourg;"";45400;FLEURY LES AUBRAIS;19/07/2023;En extérieur;RPUB_156385.pdf;Oui;3.07;Rue / Route / Parking;EXEM
+183342;1.918176;47.844988;"47°50'41.957""N 1°55'5.434""E";45232;Route des Bourges;"";45160;OLIVET;20/07/2023;En extérieur;RPUB_156384.pdf;Oui;1.6;Rue / Route / Parking;EXEM
+183354;1.904461;47.913887;"47°54'49.993""N 1°54'16.060""E";45234;Rue des Sansonnières;"";45000;ORLEANS;18/07/2023;En extérieur;RPUB_156379.pdf;Oui;1.37;Rue / Route / Parking;EXEM
+183355;1.971404;47.927128;"47°55'37.661""N 1°58'17.054""E";45284;Rue de la Grand Maison;"";45800;SAINT JEAN DE BRAYE;19/07/2023;En extérieur;RPUB_156387.pdf;Oui;1.38;Rue / Route / Parking;EXEM
