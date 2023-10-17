@@ -80,14 +80,14 @@ def get_graph(stations, radius, min_neighbours):
         # (5.5) filter neighbors within radius
         proximity = neighbors[neighbors['distance'] <= radius]
         
+        if 'station_id' in proximity.columns:
+            proximity.set_index('station_id', inplace=True)
+        
         # (5.6) add all neighbors in proximity
         if len(proximity.index) > 0:
             
             # (5.6.1) add an edge from the station to the neighbors in proximity
             for neighbor in proximity.index:
-                
-                if 'station_id' in proximity.columns:
-                    proximity.set_index('station_id', inplace=True)
                 
                 # (5.6.1) get distance from station
                 distance = proximity.at[neighbor, 'distance']

@@ -10,36 +10,10 @@ parser = parse.init()
 # (0) parse arguments
 args = parser.parse_args()
 
-if not args.city:
-    print('The following argument is required: --city/-c')
-    exit(1)
-if not args.city in CITIES:
-    print(f'Invalid city. Available cities are {", ".join(CITIES)}')
-    exit(1)
-city = args.city
-
-if not args.base_stations:
-    print('The following argument is required: --base-stations/-b')
-    exit(1)
-if args.base_stations < 0:
-    print('Invalid BS fraction. BS fraction must be non-negative.')
-    exit(1)
-bs_fraction = args.base_stations
-if (not args.link_radius) and (not args.link_radius == 0):
-    print('The following argument is required: --link_radius/-l')
-    exit(1)    
-if args.link_radius < 0:
-    print('Invalid link radius. Link radius must be non-negative.')
-    exit(1)
-radius = args.link_radius
-    
-if (not args.min_neighbours) and (not args.min_neighbours == 0):
-    print('the following argument is required: --min_neighbours/-n')
-    exit(1)
-if args.min_neighbours < 0:
-    print('Invalid min neighbours. Min neighbours must be non-negative.')
-    exit(1)
-min_neighbours = args.min_neighbours
+city = parse.validate_city(args)
+bs_fraction = parse.validate_bs(args)
+radius = parse.validate_radius(args)
+min_neighbours = parse.validate_min_neighbours(args)
 
 print('################\n# CARET CONFIG #\n################\n')
 print(f'city:\t\t{city}')

@@ -1,0 +1,69 @@
+app_id,category_broad,category_narrow
+Amazon_Web_Services,Cloud,Cloud
+Apple_App_Store,Apps,Apps
+Apple_Mail,Communication,Communication (Email)
+Apple_Music,Streaming,Streaming (Music)
+Apple_Siri,Convenience,Convenience
+Apple_Video,Streaming,Streaming (Video)
+Apple_Web_Services,Cloud,Cloud
+Apple_iCloud,Sharing,Sharing (Files)
+Apple_iMessage,Communication,Communication (Chat)
+Apple_iTunes,Streaming,Streaming (Music)
+Clash_of_Clans,Gaming,Gaming
+DailyMotion,Streaming,Streaming (Video)
+Deezer,Streaming,Streaming (Music)
+Dropbox,Sharing,Sharing (Files)
+EA_Games,Gaming,Gaming
+Facebook,Social,Social Media
+Facebook_Live,Communication,Communication (Video)
+Facebook_Messenger,Communication,Communication (Chat)
+Fortnite,Gaming,Gaming
+Google_Docs,Sharing,Sharing (Documents)
+Google_Drive,Sharing,Sharing (Files)
+Google_Mail,Communication,Communication (Email)
+Google_Maps,Navigation,Navigation
+Google_Meet,Communication,Communication (Video)
+Google_Play_Store,Apps,Apps
+Google_Web_Services,Cloud,Cloud
+Instagram,Social,Social Media
+LinkedIn,Social,Social Media
+Microsoft_Azure,Cloud,Cloud
+Microsoft_Mail,Communication,Communication (Email)
+Microsoft_Office,Sharing,Sharing (Documents)
+Microsoft_Skydrive,Sharing,Sharing (Files)
+Microsoft_Store,Apps,Apps
+Microsoft_Web_Services,Cloud,Cloud
+Molotov,Streaming,Streaming (Video)
+Netflix,Streaming,Streaming (Video)
+Orange_TV,Streaming,Streaming (Video)
+Periscope,Streaming,Streaming (Video)
+Pinterest,Social,Social Media
+PlayStation,Gaming,Gaming
+Pokemon_GO,Gaming,Gaming
+Skype,Communication,Communication (Video)
+Snapchat,Communication,Communication (Picture)
+SoundCloud,Streaming,Streaming (Music)
+Spotify,Streaming,Streaming (Music)
+TeamViewer,Convenience,Convenience
+Telegram,Communication,Communication (Chat)
+Tor,Browsing,Browsing
+Twitch,Communication,Communication (Video)
+Twitter,Social,Social Media
+Uber,Convenience,Convenience
+Waze,Navigation,Navigation
+Web_Ads,Browsing,Browsing
+Web_Adult,Browsing,Browsing
+Web_Clothes,Browsing,Browsing
+Web_Downloads,Browsing,Browsing
+Web_Finance,Browsing,Browsing
+Web_Food,Browsing,Browsing
+Web_Games,Gaming,Gaming
+Web_Streaming,Browsing,Browsing
+Web_Transportation,Browsing,Browsing
+Web_Weather,Browsing,Browsing
+Web_e-Commerce,Browsing,Browsing
+WhatsApp,Communication,Communication (Chat)
+Wikipedia,Information,Information
+Yahoo,Information,Information
+Yahoo_Mail,Communication,Communication (Email)
+YouTube,Streaming,Streaming (Video)

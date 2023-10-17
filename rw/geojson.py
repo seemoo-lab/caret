@@ -11,7 +11,6 @@ def read_or_create(path, generate_df, logger):
     logger.debug(f'creating {path}')
     gdf = generate_df()
     if not gdf is None:
-        print(gdf)
         gdf.to_file(path, driver='GeoJSON')
     return gdf
 

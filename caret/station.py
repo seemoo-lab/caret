@@ -69,7 +69,7 @@ def apply_strategy(stations, bs_strategy, all_traffic, traffic_timeslotwise):
     if bs_strategy == StationStrategy.ALL:
         return stations
     
-    percentage = bs_strategy.value
+    percentage = bs_strategy
     
     num_stations = int(percentage / 100 * len(stations.index))
     

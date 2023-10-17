@@ -33,16 +33,6 @@ def plot_station_coverage(stations, path):
     fig.savefig(path, bbox_inches="tight")
     
 def plot_topology(links, stations, path):
-    
-    print(stations)
-    print(links)
-    
-    # stations = stations.to_crs(4326)
-    # links = links.to_crs(4326)
-    
-    # print(stations)
-    # print(links)
-    
     fig, ax = plt.subplots()
     plot_coverage(stations, ax)
     plot_stations(stations, ax)
@@ -58,7 +48,7 @@ def plot_link_load(loads, stations, path):
     plot_coverage(stations, ax)
     plot_stations(stations, ax)
     plot_loads(loads, ax)
-    # plt.show()
+    plt.show()
     os.makedirs(os.path.dirname(path), exist_ok=True)
     fig.savefig(path, bbox_inches="tight")
     plt.close()
@@ -113,7 +103,6 @@ def plot_loads(loads, ax):
     #     ax=ax
     # )
     loads = loads[loads['traffic'] > 0].sort_values('traffic')
-    print(loads)
     loads.plot(
         column='traffic',
         cmap='YlOrBr',
